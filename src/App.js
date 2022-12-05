@@ -1,5 +1,5 @@
-import React, { PureComponent } from "react";
-import "./styles.css";
+import React, { PureComponent } from 'react';
+import './styles.css';
 
 import Header from './components/Header';
 import Goods from './components/Goods';
