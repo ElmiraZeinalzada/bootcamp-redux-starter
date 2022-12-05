@@ -1,6 +1,8 @@
 import React, { PureComponent } from "react";
 import "../styles.css";
+
 import GoodsItem from './GoodsItem';
+
 class Goods extends PureComponent {
   state = {
     goods: [
